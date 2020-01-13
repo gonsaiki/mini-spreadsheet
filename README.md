@@ -12,7 +12,8 @@
    * Ketika anda memilih menu cetak, maka otomatis program akan membuatkan textfile (.txt) dengan nama "rusak.txt" pada direktori anda          menyimpan script program tersebut
 4. **Menu Function**
    * Ketika anda memilih menu function, maka anda akan mendapati beberapa list fungsi yang sudah diprogram untuk mengisi, menghapus, meng-      edit, menjumlah, mengurutkan, mencari nilai max dan min, dan mencari value dari cell.
-5. **Cara Menggunakan Function**
+   
+## Cara Menggunakan Function
    * sum = anda perlu mengetikan ***sum(cell_awal,cell_akhir)***, perhatikan huruf besar kecilnya. **contoh :**
    ~~~
    sum(A1,A10) = menjumlahkan dari cell A1 sampai A10
