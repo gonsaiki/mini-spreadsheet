@@ -56,10 +56,10 @@ max(A) // search the largest value from column A
 ## Screenshot
 ***You have to run this program into your IDE, and it will display in the command line. it will display like this***
 
-### 1. View Sheet
+### 1. Function
 ![Tampilan_View](https://i.ibb.co/6b0DLnD/function.jpg)
 
-### 2. Function
+### 2. View Sheet
 ![Tampilan_Function](https://i.ibb.co/fr0tNyr/view.jpg)
 
 ## AUTHOR
